@@ -5,11 +5,13 @@ from pathlib import Path
 
 URLS = [
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt",
+    "https://raw.githubusercontent.com/ngosang/trackerslist/refs/heads/master/trackers_best_ip.txt",
     "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt",
     "https://raw.githubusercontent.com/adysec/tracker/main/trackers_best.txt",
     "https://raw.githubusercontent.com/pkgforge-security/Trackers/main/trackers_stable.txt",
     "https://raw.githubusercontent.com/scriptzteam/BitTorrent-Tracker-List/main/trackers_best.txt",
-    "https://newtrackon.com/api/stable",
+    "https://raw.githubusercontent.com/scriptzteam/BitTorrent-Tracker-List/refs/heads/main/trackers_best_ip.txt",
+    "https://newtrackon.com/api/stable?include_ipv4_only_trackers=true&include_ipv6_only_trackers=false",
     "https://trackers.run/s/rw_ws_up_hp_hs_v4.txt",
 ]
 
