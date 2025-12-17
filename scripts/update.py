@@ -3,8 +3,10 @@ import time
 import re
 import socket
 import ipaddress
+import asyncio
 from pathlib import Path
 from urllib.parse import urlparse
+from concurrent.futures import ThreadPoolExecutor
 
 # ===================== KAYNAKLAR =====================
 
@@ -30,15 +32,15 @@ TIMEOUT = 15
 RETRIES = 3
 BACKOFF = 1.5
 
-CONNECT_TIMEOUT = 3   # tracker connect testi
-MAX_TESTS = 0
+CONNECT_TIMEOUT = 3
+MAX_WORKERS = 200   # paralellik seviyesi (GitHub Actions için ideal)
 
 SESSION = requests.Session()
 SESSION.headers.update({
     "User-Agent": "tracker-aggregator/1.0 (+https://github.com/your-repo)"
 })
 
-# ===================== YARDIMCI FONKSİYONLAR =====================
+# ===================== YARDIMCI =====================
 
 def fetch(url):
     for attempt in range(1, RETRIES + 1):
@@ -46,55 +48,32 @@ def fetch(url):
             r = SESSION.get(url, timeout=TIMEOUT)
             r.raise_for_status()
             return r.text.splitlines()
-        except Exception as e:
+        except Exception:
             if attempt == RETRIES:
-                print(f"[FAIL] {url} → {e}")
                 return []
-            sleep_time = BACKOFF ** attempt
-            print(f"[RETRY {attempt}] {url} (sleep {sleep_time:.1f}s)")
-            time.sleep(sleep_time)
+            time.sleep(BACKOFF ** attempt)
 
 
 def normalize_tracker(url: str) -> str:
-    """ /announce yoksa ekle (ws/wss hariç) """
     url = url.rstrip("/")
-
     if url.startswith(("ws://", "wss://")):
         return url
-
     if not url.lower().endswith("/announce"):
         return url + "/announce"
-
     return url
 
 
 def is_ipv6_literal(url: str) -> bool:
-    """ Host kısmı IPv6 literal ise True """
     try:
-        parsed = urlparse(url)
-        host = parsed.hostname
+        host = urlparse(url).hostname
         if not host:
             return False
-        ip = ipaddress.ip_address(host)
-        return ip.version == 6
-    except ValueError:
-        return False
-
-
-def tcp_connect_test(host: str, port: int) -> bool:
-    """ Basit TCP connect testi (http/https/ws/wss) """
-    try:
-        with socket.create_connection((host, port), timeout=CONNECT_TIMEOUT):
-            return True
+        return ipaddress.ip_address(host).version == 6
     except Exception:
         return False
 
 
-def udp_connect_test(host: str, port: int) -> bool:
-    """
-    UDP için basit socket açma testi.
-    (Gerçek announce değil, sadece ulaşılabilir mi)
-    """
+def udp_test(host: str, port: int) -> bool:
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         sock.settimeout(CONNECT_TIMEOUT)
@@ -105,23 +84,44 @@ def udp_connect_test(host: str, port: int) -> bool:
         return False
 
 
-def is_tracker_reachable(url: str) -> bool:
+def tcp_test(host: str, port: int) -> bool:
+    try:
+        with socket.create_connection((host, port), timeout=CONNECT_TIMEOUT):
+            return True
+    except Exception:
+        return False
+
+
+def sync_test_tracker(url: str) -> bool:
     parsed = urlparse(url)
     host = parsed.hostname
     port = parsed.port
-
     if not host or not port:
         return False
 
     scheme = parsed.scheme.lower()
-
     if scheme == "udp":
-        return udp_connect_test(host, port)
+        return udp_test(host, port)
+    return tcp_test(host, port)
 
-    if scheme in ("http", "https", "ws", "wss"):
-        return tcp_connect_test(host, port)
 
-    return False
+# ===================== ASYNC TEST =====================
+
+async def test_all(trackers: list[str]) -> list[str]:
+    loop = asyncio.get_running_loop()
+    alive = []
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+        tasks = [
+            loop.run_in_executor(pool, sync_test_tracker, tracker)
+            for tracker in trackers
+        ]
+
+        for tracker, result in zip(trackers, await asyncio.gather(*tasks)):
+            if result:
+                alive.append(tracker)
+
+    return alive
 
 
 # ===================== MAIN =====================
@@ -130,41 +130,23 @@ def main():
     trackers = set()
 
     # --- TOPLA ---
-    for url in URLS:
-        lines = fetch(url)
-        if not lines:
-            continue
-
-        for line in lines:
+    for src in URLS:
+        for line in fetch(src):
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
-
             if not TRACKER_RE.match(line):
                 continue
-
             if is_ipv6_literal(line):
                 continue
+            trackers.add(normalize_tracker(line))
 
-            normalized = normalize_tracker(line)
-            trackers.add(normalized)
+    trackers = sorted(trackers)
+    print(f"[INFO] Collected {len(trackers)} trackers")
 
-    print(f"[INFO] Collected {len(trackers)} unique trackers")
-
-    # --- CONNECT TEST ---
-    alive = []
-    tested = 0
-
-    for tracker in sorted(trackers):
-        if tested >= MAX_TESTS:
-            break
-
-        if is_tracker_reachable(tracker):
-            alive.append(tracker)
-
-        tested += 1
-
-    print(f"[INFO] Alive after test: {len(alive)} / tested {tested}")
+    # --- ASYNC TEST ---
+    alive = asyncio.run(test_all(trackers))
+    print(f"[INFO] Alive trackers: {len(alive)}")
 
     # --- YAZ ---
     OUT_FILE.write_text("\n".join(sorted(alive)) + "\n", encoding="utf-8")
