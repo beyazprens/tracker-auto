@@ -8,6 +8,7 @@ URLS = [
     "https://raw.githubusercontent.com/pkgforge-security/Trackers/main/trackers_stable.txt",
     "https://raw.githubusercontent.com/scriptzteam/BitTorrent-Tracker-List/main/trackers_best.txt",
     "https://newtrackon.com/api/stable",
+    "https://trackers.run/s/rw_ws_up_hp_hs_v4.txt",
 ]
 
 OUT_FILE = Path("best.txt")
