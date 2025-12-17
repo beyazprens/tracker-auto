@@ -24,7 +24,6 @@ http://bt1.xxxxbt.cc:6969/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
-http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://isk.richardsw.club:6969/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -52,6 +51,7 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker810.xyz:11450/announce
+http://www.all4nothin.net:80/announce.php/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.wareztorrent.com:80/announce
