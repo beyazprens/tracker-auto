@@ -8,6 +8,7 @@ import re
 import logging
 from urllib.parse import urlparse
 from pathlib import Path
+import os
 
 URLS = [
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt",
@@ -217,12 +218,8 @@ async def main():
         print(f"{t[1]:.1f}ms - {t[0]}")
 
 if __name__ == "__main__":
-    # Windows'ta SelectorEventLoop hatasını önlemek için (Python 3.8+)
-    if asyncio.get_event_loop_policy().__class__.__name__ == 'WindowsProactorEventLoopPolicy':
+    # Windows uyumluluğu (Local testler için)
+    if os.name == 'nt':
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
         
     asyncio.run(main())
-
-
-if __name__ == "__main__":
-    main()
