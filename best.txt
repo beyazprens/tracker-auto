@@ -22,6 +22,7 @@ http://bt1.xxxxbt.cc:6969/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
+http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://isk.richardsw.club:6969/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -47,8 +48,8 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker810.xyz:11450/announce
-http://www.all4nothin.net:80/announce.php/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.wareztorrent.com:80/announce
@@ -57,9 +58,9 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe:443/announce
@@ -70,7 +71,6 @@ https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwa.pro:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
-https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 udp://0205.uptm.ch:6969/announce
