@@ -20,9 +20,11 @@ jobs:
         with:
           python-version: "3.11"
 
+      # DEĞİŞİKLİK BURADA: 'requests' yerine 'aiohttp' yüklüyoruz
       - name: Install deps
-        run: python -m pip install --upgrade pip requests
+        run: python -m pip install --upgrade pip aiohttp
 
+      # Scriptin yolu senin yapına uygun: scripts/update.py
       - name: Run updater
         run: python scripts/update.py
 
