@@ -30,7 +30,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://p4p.arenabg.com:1337/announce
 http://tk.greedland.net:80/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
@@ -50,7 +49,6 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker810.xyz:11450/announce
-http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
@@ -1127,4 +1125,3 @@ wss://tracker.files.fm:7073/announce
 wss://tracker.ghostchu-services.top:443/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
