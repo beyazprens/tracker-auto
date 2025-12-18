@@ -30,6 +30,7 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://p4p.arenabg.com:1337/announce
 http://tk.greedland.net:80/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
@@ -49,6 +50,8 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker810.xyz:11450/announce
+http://www.all4nothin.net:80/announce.php/announce
+http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
@@ -733,7 +736,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
-udp://bt.sc-ol.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
