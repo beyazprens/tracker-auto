@@ -23,8 +23,8 @@ URLS = [
 ]
 
 OUTPUT_FILE = "best.txt"
-MAX_TRACKERS = 100  # En iyi kaç tanesini kaydedelim? (Hepsini istersen bu sayıyı büyüt)
-TIMEOUT = 10        # Zaman aşımı (saniye)
+MAX_TRACKERS = 300  # En iyi kaç tanesini kaydedelim? (Hepsini istersen bu sayıyı büyüt)
+TIMEOUT = 5        # Zaman aşımı (saniye)
 CONCURRENCY = 500   # Aynı anda kaç bağlantı test edilsin
 
 # UDP Protokol Sabitleri (BEP 15)
