@@ -2,7 +2,7 @@ name: Update trackers
 
 on:
   schedule:
-    - cron: "0 * * * *"   # her saat başı (UTC)
+    - cron: "0 * * * *"   # her saat başı
   workflow_dispatch:
 
 permissions:
@@ -20,11 +20,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      # DEĞİŞİKLİK BURADA: 'requests' yerine 'aiohttp' yüklüyoruz
       - name: Install deps
-        run: python -m pip install --upgrade pip aiohttp
+        run: pip install requests
 
-      # Scriptin yolu senin yapına uygun: scripts/update.py
       - name: Run updater
         run: python scripts/update.py
 
@@ -39,3 +37,4 @@ jobs:
             git commit -m "auto: update trackers"
             git push
           fi
+
