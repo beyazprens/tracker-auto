@@ -1,8 +1,6 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info:80/announce
-http://138.124.183.78:6969/announce
-http://140.235.237.23:6969/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
@@ -24,8 +22,6 @@ http://35.227.59.57:2710/announce
 http://35.227.59.57:443/announce
 http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
-http://45.146.254.59:80/announce
-http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://all4nothin.net/announce
 http://atrack.pow7.com:80/announce
