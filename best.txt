@@ -109,6 +109,7 @@ http://www.zone-torrent.net/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bt.beatrice-raws.org/announce
+https://cny.fan:443/announce
 https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://shahidrazi.online:443/announce
