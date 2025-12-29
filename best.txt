@@ -3,6 +3,7 @@ http://125.227.79.123/announce
 http://1337.abcvg.info:80/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
+http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://216.144.239.90:6969/announce
 http://34.94.76.146/announce
@@ -13,6 +14,7 @@ http://34.94.76.146:2710/announce
 http://34.94.76.146:443/announce
 http://34.94.76.146:6960/announce
 http://34.94.76.146:6969/announce
+http://34.94.76.146:80/announce
 http://35.227.59.57/announce
 http://35.227.59.57:11450/announce
 http://35.227.59.57:1337/announce
@@ -21,6 +23,7 @@ http://35.227.59.57:2710/announce
 http://35.227.59.57:443/announce
 http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
+http://35.227.59.57:80/announce
 http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://atrack.pow7.com:80/announce
