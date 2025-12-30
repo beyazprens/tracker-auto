@@ -111,6 +111,7 @@ https://1337.abcvg.info:443/announce
 https://cny.fan:443/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
+https://retracker2.x2k.ru:443/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz:443/announce
