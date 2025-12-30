@@ -14,7 +14,6 @@ http://34.94.76.146:2710/announce
 http://34.94.76.146:443/announce
 http://34.94.76.146:6960/announce
 http://34.94.76.146:6969/announce
-http://34.94.76.146:80/announce
 http://35.227.59.57/announce
 http://35.227.59.57:11450/announce
 http://35.227.59.57:1337/announce
@@ -23,7 +22,6 @@ http://35.227.59.57:2710/announce
 http://35.227.59.57:443/announce
 http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
-http://35.227.59.57:80/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://all4nothin.net/announce
 http://asiatorrent.giize.com:51413/announce
