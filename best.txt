@@ -6,6 +6,7 @@ http://140.235.237.23:6969/announce
 http://167.253.78.20:8080/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
+http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
@@ -26,7 +27,6 @@ http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://data-bg.net/announce
-http://echostar.ddnsfree.com:8080/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -73,7 +73,6 @@ http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openzim.org/announce
-http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co/announce
@@ -120,7 +119,6 @@ https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
