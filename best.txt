@@ -132,6 +132,7 @@ https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwa.pro:443/announce
 https://tracker.renfei.net/announce
+https://tracker.soshifanclub.com:443/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.uraniumhexafluori.de:443/announce
