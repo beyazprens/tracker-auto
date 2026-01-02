@@ -58,6 +58,7 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
@@ -100,7 +101,6 @@ https://bt.ptlsp.com/announce
 https://cny.fan:443/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
-https://retracker2.x2k.ru:443/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
