@@ -1,5 +1,6 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://185.230.4.150:1337/announce
 http://186.10.172.248:1337/announce
@@ -11,6 +12,8 @@ http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://all4nothin.net/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
@@ -21,6 +24,7 @@ http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bvarf.tracker.sh:2086/announce
+http://data-bg.net/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -37,13 +41,14 @@ http://open.stealth.si/announce
 http://open.tracker.cl:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
-http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
+http://torrent-team.net/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
@@ -57,6 +62,7 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
@@ -70,7 +76,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.tricitytorrents.com:2710/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
@@ -82,7 +87,9 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://trackers.ibzu.me/announce
+http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+http://www.all4nothin.net/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
 http://www.bitseduce.com/announce
@@ -90,6 +97,8 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
+http://www.zone-torrent.net/announce
+https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.ptlsp.com/announce
@@ -103,7 +112,6 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
-https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
