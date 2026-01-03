@@ -1,6 +1,5 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://185.230.4.150:1337/announce
 http://186.10.172.248:1337/announce
@@ -21,6 +20,7 @@ http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://btx.anifilm.tv/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
@@ -54,7 +54,6 @@ http://torrentsmd.com:8080/announce
 http://torrentzilla.org/announce
 http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw/announce
-http://tracker-udp.anirena.com/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
@@ -75,6 +74,7 @@ http://tracker.trancetraffic.com/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
@@ -92,7 +92,6 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
-http://www.zone-torrent.net/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bt.beatrice-raws.org/announce
@@ -107,7 +106,6 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
-https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
@@ -850,6 +848,8 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
+udp://cutscloud.duckdns.org:6969/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -900,6 +900,7 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
+udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
@@ -978,6 +979,7 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://region.nl1.privex.cc:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
@@ -1020,6 +1022,7 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
+udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://torrent.fedoraproject.org:6969/announce
@@ -1133,7 +1136,6 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.sktorrent.net:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
@@ -1227,4 +1229,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
