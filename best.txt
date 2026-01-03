@@ -13,11 +13,8 @@ http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-http://all4nothin.net/announce
 http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
-http://big-boss-tracker.net/announce
-http://bithq.org/announce
 http://bt.3kb.xyz/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -43,8 +40,6 @@ http://peersteers.org/announce
 http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
-http://rotracker.ohys.net/announce
-http://rstracker.ohys.net/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -56,13 +51,13 @@ http://torrentsmd.com:8080/announce
 http://torrentzilla.org/announce
 http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw/announce
-http://tracker-udp.anirena.com/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
@@ -76,6 +71,7 @@ http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.top/announce
@@ -90,10 +86,10 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
 http://www.bitseduce.com/announce
+http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.ptlsp.com/announce
@@ -116,6 +112,7 @@ https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
+https://tracker.cangku.moe/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
@@ -422,6 +419,7 @@ udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
