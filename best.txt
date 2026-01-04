@@ -50,7 +50,6 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
@@ -100,7 +99,6 @@ https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
-https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
