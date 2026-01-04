@@ -33,7 +33,6 @@ http://nagios.tks.sumy.ua/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
-http://open.tracker.cl:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
 http://retracker.joxnet.ru/announce
@@ -54,7 +53,6 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.enitin.xyz/announce
