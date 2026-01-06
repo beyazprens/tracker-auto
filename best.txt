@@ -61,6 +61,7 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.enitin.xyz/announce
@@ -70,7 +71,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.openzim.org/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
