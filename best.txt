@@ -1,3 +1,4 @@
+http://0d.kebhana.mx:443/announce
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info:80/announce
@@ -11,10 +12,9 @@ http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://34.66.57.33:1337/announce
 http://34.66.57.33:2701/announce
-http://34.66.57.33:6969/announce
+http://34.66.57.33:443/announce
 http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-http://all4nothin.net/announce
 http://atrack.pow7.com:80/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
@@ -22,10 +22,8 @@ http://bt.3kb.xyz/announce
 http://bt.beatrice-raws.org/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
-http://data-bg.net/announce
 http://extracker.dahrkael.net:6969/announce
 http://h4.trakx.nibba.trade/announce
-http://home.yxgz.club:6969/announce
 http://i.bandito.org/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
@@ -37,15 +35,15 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
+http://retracker.spark-rostov.ru/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
-http://servandroidkino.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
-http://torrent-team.net/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
@@ -84,7 +82,6 @@ http://trackers.ibzu.me/announce
 http://trackr.appolon.dev:6969/announce
 http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-http://www.all4nothin.net/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
 http://www.bitseduce.com/announce
@@ -93,8 +90,8 @@ http://www.torrentsnipe.info:2701/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
+https://bt.beatrice-raws.org/announce
 https://cny.fan:443/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
