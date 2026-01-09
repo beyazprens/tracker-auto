@@ -51,7 +51,6 @@ http://torrentsmd.com:8080/announce
 http://torrentzilla.org/announce
 http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw/announce
-http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
