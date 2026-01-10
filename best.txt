@@ -1,6 +1,5 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
@@ -15,7 +14,6 @@ http://atrack.pow7.com:80/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
 http://bt.3kb.xyz/announce
-http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -42,9 +40,8 @@ http://rstracker.ohys.net/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
-http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
-http://torrent.unix-ag.uni-kl.de/announce
+http://torrent.ubuntu.com:6969/announce
 http://torrentsmd.com:8080/announce
 http://torrentzilla.org/announce
 http://tr.highstar.shop:80/announce
@@ -98,7 +95,9 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
@@ -266,6 +265,7 @@ udp://177.172.65.102:6969/announce
 udp://177.172.65.168:6969/announce
 udp://177.172.66.120:6969/announce
 udp://177.172.66.210:6969/announce
+udp://177.172.67.13:6969/announce
 udp://177.172.67.247:6969/announce
 udp://177.172.67.94:6969/announce
 udp://177.173.31.33:6969/announce
@@ -1227,6 +1227,7 @@ wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.ghostchu-services.top:443/announce
+wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
