@@ -11,6 +11,7 @@ http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://atrack.pow7.com:80/announce
+http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -30,8 +31,8 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
+http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://siambit.com/announce
@@ -49,7 +50,6 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
-http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
 http://tracker.file09.com/announce
 http://tracker.kmzs123.com/announce
@@ -76,6 +76,7 @@ http://trackr.appolon.dev:6969/announce
 http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce.php
+http://www.ansktracker.net/announce
 http://www.bitseduce.com/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
@@ -83,6 +84,7 @@ http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
+https://bt.beatrice-raws.org/announce
 https://cny.fan:443/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -93,6 +95,7 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
@@ -101,6 +104,7 @@ https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
+https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
@@ -120,6 +124,7 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.zhuqiy.top/announce
+https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 udp://0205.uptm.ch:6969/announce
 udp://103.122.21.50:6969/announce
@@ -411,6 +416,7 @@ udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -1224,3 +1230,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
