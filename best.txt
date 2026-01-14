@@ -1,6 +1,7 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info:80/announce
+http://152.231.114.51:1337/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
@@ -28,6 +29,7 @@ http://nagios.tks.sumy.ua/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
+http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
 http://retracker.ohys.net/announce
 http://rotracker.ohys.net/announce
@@ -1036,7 +1038,6 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1337x.org:80/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
