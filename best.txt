@@ -1,5 +1,6 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
@@ -14,7 +15,7 @@ http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-http://bt.beatrice-raws.org/announce
+http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -86,9 +87,7 @@ http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info:443/announce
-https://bt.beatrice-raws.org/announce
 https://cny.fan:443/announce
-https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online:443/announce
@@ -649,6 +648,7 @@ udp://68.193.189.231:6969/announce
 udp://69.30.224.166:6969/announce
 udp://69.30.233.234:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://74.119.150.221:6969/announce
 udp://74.82.52.209:6969/announce
 udp://77.91.85.95:6969/announce
 udp://78.153.130.109:6969/announce
@@ -847,8 +847,6 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -899,7 +897,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
-udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
