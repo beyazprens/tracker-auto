@@ -104,7 +104,6 @@ https://retracker2.x2k.ru/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
-https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -121,7 +120,6 @@ https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
-https://tracker.leechshield.link:443/announce
 https://tracker.madtia.cc/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.moeking.me:443/announce
