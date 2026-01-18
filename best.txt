@@ -94,6 +94,7 @@ https://retracker2.x2k.ru/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
+https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://torrentonline.cc/announce
@@ -102,6 +103,7 @@ https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
+https://tracker.cutie.dating:443/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
