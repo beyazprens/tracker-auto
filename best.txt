@@ -9,8 +9,8 @@ http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://51.68.122.172/announce
+http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -33,7 +33,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -48,7 +47,6 @@ http://torrent.unix-ag.uni-kl.de/announce
 http://torrentsmd.com:8080/announce
 http://torrentzilla.org/announce
 http://tr.highstar.shop:80/announce
-http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -59,6 +57,7 @@ http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openzim.org/announce
+http://tracker.pcfreetime.com:6969/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
@@ -90,6 +89,7 @@ https://1337.abcvg.info:443/announce
 https://bt.beatrice-raws.org/announce
 https://cny.fan:443/announce
 https://edge-team.cc/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
@@ -103,6 +103,7 @@ https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
+https://tracker.bt4g.com/announce
 https://tracker.cutie.dating:443/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.foreverpirates.co:443/announce
