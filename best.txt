@@ -33,7 +33,6 @@ http://nagios.tks.sumy.ua/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
-http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
 http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
