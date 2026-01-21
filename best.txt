@@ -9,12 +9,14 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://51.68.122.172/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:2710/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
-http://bt.nnm-club.info:2710/announce
+http://bt.beatrice-raws.org/announce
 http://bt.okmp3.ru:2710/announce
+http://bt.poletracker.org:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bvarf.tracker.sh:2086/announce
@@ -33,11 +35,11 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
+http://shubt.net:2710/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://taciturn-shadow.spb.ru:6969/announce
@@ -50,6 +52,7 @@ http://torrentzilla.org/announce
 http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -67,7 +70,6 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.top/announce
@@ -87,10 +89,9 @@ http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
+https://bt.beatrice-raws.org/announce
 https://cny.fan:443/announce
-https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
-https://retracker2.x2k.ru/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
@@ -102,7 +103,6 @@ https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
-https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe/announce
@@ -847,6 +847,7 @@ udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -1118,7 +1119,6 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
