@@ -9,8 +9,8 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
 http://bt.okmp3.ru:2710/announce
@@ -65,6 +65,7 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.top/announce
@@ -74,10 +75,10 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://trackr.appolon.dev:6969/announce
-http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
+http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
@@ -85,16 +86,14 @@ https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://cny.fan:443/announce
 https://edge-team.cc/announce
-https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
-https://torrent.opiums.eu/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
-https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
@@ -414,6 +413,7 @@ udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -838,6 +838,7 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
+udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
@@ -1230,3 +1231,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
