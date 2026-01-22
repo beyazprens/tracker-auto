@@ -12,7 +12,6 @@ http://34.66.57.33:2710/announce
 http://44.30.4.4:6969/announce
 http://93.158.213.92:1337/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-http://atrack.pow7.com:80/announce
 http://bithq.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
