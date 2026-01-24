@@ -14,7 +14,6 @@ http://216.144.239.90:6969/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://93.158.213.92:1337/announce
-http://93.88.129.16/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://atrack.pow7.com:80/announce
@@ -32,7 +31,6 @@ http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
-http://litter.fluffykitten.moe:1337/announce
 http://lucke.fenesisu.moe:6969/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
@@ -73,7 +71,6 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -101,6 +98,7 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 https://tr.highstar.shop:443/announce
@@ -264,6 +262,7 @@ udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
 udp://177.172.62.168:6969/announce
 udp://177.172.62.185:6969/announce
+udp://177.172.62.240:6969/announce
 udp://177.172.65.102:6969/announce
 udp://177.172.65.168:6969/announce
 udp://177.172.66.120:6969/announce
@@ -920,6 +919,7 @@ udp://leet-tracker.moe:23861/announce
 udp://leet-tracker.moe:38151/announce
 udp://line-net.ru:6969/announce
 udp://linfan.moe:6969/announce
+udp://litter.fluffykitten.moe:1337/announce
 udp://llideong.cn:6969/announce
 udp://lloria.fr:6969/announce
 udp://ln.mtahost.co:6969/announce
@@ -1242,3 +1242,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
