@@ -3,17 +3,17 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://140.235.237.23:6969/announce
-http://167.253.78.20:8080/announce
+http://15.204.239.175:6969/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
+http://211.97.119.88:2710/announce
 http://216.144.239.90:6969/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
-http://93.158.213.92:1337/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://atrack.pow7.com:80/announce
@@ -63,7 +63,6 @@ http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -300,6 +299,7 @@ udp://179.98.254.201:6969/announce
 udp://179.98.254.95:6969/announce
 udp://179.98.51.208:6969/announce
 udp://179.98.51.248:6969/announce
+udp://179.98.51.66:6969/announce
 udp://18.191.163.220:6969/announce
 udp://181.214.58.63:6969/announce
 udp://182.176.139.129:6969/announce
@@ -805,6 +805,7 @@ udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
+udp://anna.bt.bontal.net:6969/announce
 udp://anzix.net:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://app.icon256.com:8000/announce
