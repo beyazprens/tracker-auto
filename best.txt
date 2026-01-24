@@ -1,5 +1,6 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://140.235.237.23:6969/announce
 http://167.253.78.20:8080/announce
@@ -18,10 +19,12 @@ http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
+http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bvarf.tracker.sh:2086/announce
+http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
@@ -33,6 +36,7 @@ http://litter.fluffykitten.moe:1337/announce
 http://lucke.fenesisu.moe:6969/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
+http://npupt.com/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
@@ -69,6 +73,7 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -89,7 +94,6 @@ http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://cny.fan:443/announce
-https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online:443/announce
@@ -98,7 +102,6 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://torrent.tracker.durukanbal.com:443/announce
-https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
@@ -846,6 +849,7 @@ udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
 udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
+udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
