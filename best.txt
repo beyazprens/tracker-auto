@@ -11,9 +11,6 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://44.30.4.4:6969/announce
-http://44.30.4.70:6969/announce
-http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
@@ -260,6 +257,7 @@ udp://177.139.47.40:6969/announce
 udp://177.139.47.92:6969/announce
 udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
+udp://177.16.198.195:6969/announce
 udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
 udp://177.172.62.168:6969/announce
