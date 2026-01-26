@@ -19,6 +19,7 @@ http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://btracker.top:11451/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
@@ -57,6 +58,7 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -80,7 +82,7 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://uatracker.net/announce
+http://tracker810.xyz:11450/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
@@ -88,6 +90,7 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://cny.fan:443/announce
 https://edge-team.cc/announce
@@ -101,6 +104,7 @@ https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
@@ -109,7 +113,6 @@ https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
-https://tracker.cangku.moe/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe/announce
@@ -117,6 +120,7 @@ https://tracker.iochimari.moe:443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.madtia.cc/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
@@ -1248,4 +1252,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
