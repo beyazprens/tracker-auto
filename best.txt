@@ -3,7 +3,6 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://185.230.4.150:1337/announce
-http://186.10.170.58:1337/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
@@ -11,6 +10,10 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:11450/announce
+http://34.66.57.33:2701/announce
+http://44.30.4.4:6969/announce
+http://44.30.4.70:6969/announce
 http://51.68.122.172/announce
 http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -261,7 +264,6 @@ udp://177.139.47.40:6969/announce
 udp://177.139.47.92:6969/announce
 udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
-udp://177.16.198.195:6969/announce
 udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
 udp://177.172.62.168:6969/announce
