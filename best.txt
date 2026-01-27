@@ -2,6 +2,9 @@ http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
+http://138.124.183.78:6969/announce
+http://140.235.237.23:6969/announce
+http://167.253.78.20:8080/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
@@ -10,11 +13,10 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:2701/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://51.68.122.172/announce
+http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
 http://bt.beatrice-raws.org/announce
@@ -38,6 +40,7 @@ http://npupt.com/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
+http://open.tracker.cl:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
 http://retracker.joxnet.ru/announce
@@ -86,6 +89,7 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+http://wepzone.net:6969/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
 http://www.siambt.com/announce
@@ -109,7 +113,9 @@ https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
+https://tr.zukizuki.org:443/announce
 https://tr2.trkb.ru/announce
+https://tracker.alaskantf.com:443/announce
 https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
@@ -412,6 +418,7 @@ udp://198.91.25.157:8000/announce
 udp://1c.premierzal.ru:6969/announce
 udp://200.111.152.54:1337/announce
 udp://200.148.11.147:6969/announce
+udp://200.148.11.156:6969/announce
 udp://200.148.11.61:6969/announce
 udp://200.161.254.131:6969/announce
 udp://200.161.254.194:6969/announce
