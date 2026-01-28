@@ -17,7 +17,6 @@ http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://93.88.129.16/announce
 http://95.217.167.10:6969/announce
-http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -35,13 +34,13 @@ http://kinorun.com/announce
 http://lucke.fenesisu.moe:6969/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
-http://npupt.com/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.tracker.cl:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
@@ -73,6 +72,8 @@ http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -91,8 +92,8 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
-https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://retracker2.x2k.ru:443/announce
@@ -1158,6 +1159,7 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://tracker.tallpenguin.org:15750/announce
+udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
@@ -1249,3 +1251,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
