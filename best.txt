@@ -1,5 +1,6 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
@@ -14,7 +15,6 @@ http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
-http://51.68.122.172/announce
 http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
 http://bithq.org/announce
@@ -22,6 +22,7 @@ http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
@@ -51,6 +52,7 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://torrentsmd.com:8080/announce
 http://torrentzilla.org/announce
 http://tr.nyacat.pw/announce
@@ -70,7 +72,6 @@ http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
@@ -90,18 +91,20 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
-https://retracker.x2k.ru/announce
-https://retracker2.x2k.ru/announce
 https://retracker2.x2k.ru:443/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
+https://torrent.opiums.eu/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
@@ -1182,6 +1185,7 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker.zum.bi:6969/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.zupix.online:6969/announce
 udp://tracker0.ufibox.com:6969/announce
@@ -1243,4 +1247,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
