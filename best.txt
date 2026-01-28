@@ -10,8 +10,10 @@ http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://211.75.205.188:80/announce
+http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:2701/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://93.88.129.16/announce
@@ -110,6 +112,7 @@ https://tr.zukizuki.org:443/announce
 https://tr2.trkb.ru/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.bt4g.com/announce
+https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe/announce
@@ -349,6 +352,7 @@ udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
 udp://187.57.132.20:6969/announce
 udp://187.57.132.246:6969/announce
+udp://187.57.132.65:6969/announce
 udp://187.57.229.141:6969/announce
 udp://188.165.253.109:1337/announce
 udp://189.0.78.245:6969/announce
