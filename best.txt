@@ -83,7 +83,6 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-http://wepzone.net:6969/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
 http://www.siambt.com/announce
@@ -101,14 +100,12 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://torrent.tracker.durukanbal.com/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
-https://tr.zukizuki.org:443/announce
 https://tr2.trkb.ru/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.bt4g.com/announce
