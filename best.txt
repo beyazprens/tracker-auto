@@ -15,8 +15,10 @@ http://216.144.239.90:6969/announce
 http://34.66.57.33:2701/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
+http://51.68.122.172/announce
 http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
+http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -25,7 +27,6 @@ http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
-http://i.bandito.org/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce
@@ -38,8 +39,8 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
+http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
@@ -84,8 +85,11 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
+https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://retracker2.x2k.ru:443/announce
 https://shahidrazi.online:443/announce
@@ -848,8 +852,6 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -981,7 +983,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
@@ -1037,7 +1038,6 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
