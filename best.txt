@@ -20,13 +20,13 @@ http://93.88.129.16/announce
 http://95.217.167.10:6969/announce
 http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
-http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
+http://ftp.pet:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
@@ -72,6 +72,7 @@ http://tracker.renfei.net:8080/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.top/announce
@@ -91,7 +92,6 @@ http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info:443/announce
-https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -223,6 +223,7 @@ udp://152.249.214.198:6969/announce
 udp://152.249.214.53:6969/announce
 udp://152.249.214.68:6969/announce
 udp://152.249.214.74:6969/announce
+udp://152.53.152.105:15480/announce
 udp://152.53.152.105:1984/announce
 udp://152.53.152.105:54123/announce
 udp://154.40.43.165:6969/announce
