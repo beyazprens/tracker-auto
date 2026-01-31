@@ -15,12 +15,10 @@ http://222.191.171.198:6969/announce
 http://34.66.57.33:6969/announce
 http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
-http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://btracker.top:11451/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
 http://ftp.pet:6969/announce
@@ -44,7 +42,6 @@ http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
-http://share.hkg-fansub.info/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://taciturn-shadow.spb.ru:6969/announce
@@ -57,7 +54,6 @@ http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
-http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
@@ -80,7 +76,6 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
@@ -88,10 +83,7 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
-https://bt.beatrice-raws.org/announce
-https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://retracker2.x2k.ru:443/announce
@@ -107,7 +99,6 @@ https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
 https://tr.zukizuki.org:443/announce
 https://tr2.trkb.ru/announce
-https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe/announce
@@ -123,6 +114,7 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.zhuqiy.top/announce
+https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 udp://0205.uptm.ch:6969/announce
 udp://103.122.21.50:6969/announce
@@ -1245,3 +1237,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
