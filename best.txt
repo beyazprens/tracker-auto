@@ -1,17 +1,16 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info:80/announce
-http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
-http://167.253.78.20:8080/announce
 http://193.31.26.113:6969/announce
+http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
+http://211.75.205.187:80/announce
+http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://222.191.171.198:6969/announce
-http://34.66.57.33:6969/announce
 http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
 http://bt.nnm-club.info:2710/announce
@@ -91,7 +90,6 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.nyacat.pw/announce
@@ -408,7 +406,7 @@ udp://200.161.254.194:6969/announce
 udp://200.161.254.20:6969/announce
 udp://200.168.116.107:6969/announce
 udp://200.168.116.200:6969/announce
-udp://200.168.116.68:6969/announce
+udp://200.168.116.61:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
@@ -608,6 +606,7 @@ udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
 udp://5.45.69.185:6969/announce
+udp://5.75.253.124:6969/announce
 udp://5.79.249.77:6969/announce
 udp://5.79.83.193:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
@@ -676,6 +675,7 @@ udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
 udp://79.117.63.250:1234/announce
+udp://80.71.224.126:1337/announce
 udp://80.71.224.126:6969/announce
 udp://81.230.84.201:6969/announce
 udp://81.7.10.104:6969/announce
@@ -1043,6 +1043,7 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.1337x.org:80/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.alaskantf.com:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.army:6969/announce
 udp://tracker.auctor.tv:6969/announce
