@@ -1,3 +1,4 @@
+http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info:80/announce
 http://138.124.183.78:6969/announce
