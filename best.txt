@@ -1,20 +1,13 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info:80/announce
-http://138.124.183.78:6969/announce
-http://140.235.237.23:6969/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
-http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://34.66.57.33:11450/announce
-http://34.66.57.33:2701/announce
-http://34.66.57.33:2710/announce
-http://44.30.4.70:6969/announce
-http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -35,6 +28,7 @@ http://nagios.tks.sumy.ua/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
+http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
@@ -328,6 +322,7 @@ udp://186.10.170.97:1337/announce
 udp://186.10.172.248:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
+udp://187.11.72.168:6969/announce
 udp://187.11.72.188:6969/announce
 udp://187.11.72.236:6969/announce
 udp://187.11.73.178:6969/announce
