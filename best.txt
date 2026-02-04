@@ -4,13 +4,12 @@ http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
-http://167.253.78.20:8080/announce
-http://180.112.57.159:6969/announce
 http://193.31.26.113:6969/announce
+http://200.111.152.53:1337/announce
 http://207.241.226.111:6969/announce
-http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
+http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://34.66.57.33:11450/announce
@@ -38,6 +37,7 @@ http://nagios.tks.sumy.ua/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
+http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
@@ -68,6 +68,7 @@ http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.wepzone.net:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
@@ -75,6 +76,7 @@ http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
+http://tracker2.dler.org:80/announce
 http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
