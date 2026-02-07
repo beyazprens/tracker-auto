@@ -2,19 +2,20 @@ http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
-http://167.253.78.20:8080/announce
+http://140.235.237.23:6969/announce
 http://180.114.103.80:6969/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
 http://211.75.205.188:80/announce
+http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
+http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://43.250.54.137:6969/announce
-http://44.30.4.3:6969/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://93.88.129.16/announce
+http://95.217.167.10:6969/announce
 http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
@@ -116,6 +117,7 @@ https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.madtia.cc/announce
 https://tracker.moeblog.cn:443/announce
+https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -416,6 +418,7 @@ udp://195.123.209.40:80/announce
 udp://198.100.149.66:6969/announce
 udp://198.91.25.157:8000/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
@@ -426,6 +429,7 @@ udp://200.161.254.20:6969/announce
 udp://200.168.116.107:6969/announce
 udp://200.168.116.200:6969/announce
 udp://200.168.116.61:6969/announce
+udp://200.168.117.124:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
