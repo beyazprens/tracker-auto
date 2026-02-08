@@ -12,6 +12,7 @@ http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://44.30.4.3:6969/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://93.88.129.16/announce
@@ -39,7 +40,6 @@ http://nagios.tks.sumy.ua/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
-http://open.tracker.cl:1337/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
