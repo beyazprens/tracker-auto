@@ -8,6 +8,10 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:2710/announce
+http://44.30.4.3:6969/announce
+http://44.30.4.4:6969/announce
+http://44.30.4.70:6969/announce
 http://93.88.129.16/announce
 http://atrack.pow7.com:80/announce
 http://bt.nnm-club.info:2710/announce
@@ -431,6 +435,7 @@ udp://200.170.113.35:6969/announce
 udp://200.170.113.5:6969/announce
 udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
+udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
 udp://207.241.226.111:6969/announce
