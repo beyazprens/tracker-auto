@@ -1,6 +1,5 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
@@ -8,13 +7,13 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:1337/announce
 http://atrack.pow7.com:80/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bvarf.tracker.sh:2086/announce
+http://concen.org:6969/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -31,9 +30,9 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
-http://share.hkg-fansub.info/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://taciturn-shadow.spb.ru:6969/announce
@@ -45,11 +44,11 @@ http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -66,7 +65,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com/announce
@@ -93,7 +91,7 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
-https://torrent.tracker.durukanbal.com/announce
+https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
