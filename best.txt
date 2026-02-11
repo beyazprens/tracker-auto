@@ -2,14 +2,22 @@ http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
+http://167.253.78.20:8080/announce
 http://180.113.232.20:6969/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
+http://211.75.205.187:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
+http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:80/announce
+http://43.250.54.137:6969/announce
+http://44.30.4.70:6969/announce
+http://93.158.213.92:1337/announce
 http://93.88.129.16/announce
+http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -55,6 +63,7 @@ http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -107,6 +116,7 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.h3o2.me/announce
 https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
+https://tracker.iperson.xyz:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
@@ -388,6 +398,7 @@ udp://191.23.121.129:6969/announce
 udp://191.23.62.111:6969/announce
 udp://191.23.62.147:6969/announce
 udp://191.23.71.103:6969/announce
+udp://191.23.71.131:6969/announce
 udp://191.23.71.193:6969/announce
 udp://191.23.71.22:6969/announce
 udp://191.23.94.237:6969/announce
