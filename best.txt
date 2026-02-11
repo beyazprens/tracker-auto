@@ -8,6 +8,7 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://atrack.pow7.com:80/announce
 http://bt.nnm-club.info:2710/announce
@@ -90,7 +91,6 @@ https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
