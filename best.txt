@@ -64,7 +64,6 @@ http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -105,7 +104,6 @@ https://t1.tokhmi.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
@@ -117,7 +115,6 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.h3o2.me/announce
 https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
-https://tracker.iperson.xyz:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
