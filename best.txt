@@ -40,7 +40,6 @@ http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
-http://t-backup.213891.xyz:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
