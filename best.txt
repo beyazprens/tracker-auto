@@ -5,14 +5,15 @@ http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
+http://209.50.255.93:3218/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:2710/announce
+http://34.66.57.33:443/announce
 http://34.66.57.33:6969/announce
-http://93.158.213.92:1337/announce
+http://34.66.57.33:80/announce
+http://44.30.4.70:6969/announce
 http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
@@ -104,6 +105,7 @@ https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
@@ -111,8 +113,10 @@ https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
+https://tr.zukizuki.org:443/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
+https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.h3o2.me/announce
@@ -447,6 +451,7 @@ udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
 udp://200.170.110.108:6969/announce
+udp://200.170.110.170:6969/announce
 udp://200.170.113.35:6969/announce
 udp://200.170.113.5:6969/announce
 udp://201.13.49.112:6969/announce
