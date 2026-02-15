@@ -6,14 +6,15 @@ http://140.235.237.23:6969/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
 http://209.50.255.93:3218/announce
+http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:11450/announce
 http://34.66.57.33:1337/announce
-http://34.66.57.33:443/announce
-http://34.66.57.33:80/announce
-http://44.30.4.70:6969/announce
+http://34.66.57.33:2701/announce
+http://34.66.57.33:6969/announce
 http://93.88.129.16/announce
 http://95.217.167.10:6969/announce
 http://asiatorrent.giize.com:51413/announce
@@ -623,6 +624,7 @@ udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.3:6969/announce
 udp://44.30.4.4:6969/announce
+udp://44.30.4.70:6969/announce
 udp://45.13.119.213:6969/announce
 udp://45.130.21.69:6969/announce
 udp://45.134.88.121:6969/announce
