@@ -4,12 +4,11 @@ http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
+http://167.253.78.20:8080/announce
 http://180.113.232.20:6969/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
-http://209.50.255.93:3218/announce
 http://211.75.205.188:80/announce
-http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
@@ -125,6 +124,7 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.h3o2.me/announce
 https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
+https://tracker.iperson.xyz:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
@@ -155,6 +155,7 @@ udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://107.189.11.58:6969/announce
+udp://107.189.2.131:1337/announce
 udp://107.189.3.200:6969/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
