@@ -1,7 +1,7 @@
-http://0123456789nonexistent.com/announce
 http://0d.kebhana.mx:443/announce
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
@@ -11,8 +11,8 @@ http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33/announce
 http://34.66.57.33:11450/announce
+http://34.66.57.33:1337/announce
 http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
 http://34.66.57.33:443/announce
@@ -20,21 +20,20 @@ http://34.66.57.33:6969/announce
 http://93.88.129.16/announce
 http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
-http://blackz.ro/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://btracker.top:11451/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
-http://ftp.pet:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce
-http://jvavav.com/announce
+http://isk.richardsw.club:6969/announce
 http://kinorun.com/announce
 http://lucke.fenesisu.moe:6969/announce
 http://mediaclub.tv/announce
@@ -44,7 +43,7 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
+http://retracker.spark-rostov.ru/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://servandroidkino.ru/announce
@@ -61,9 +60,11 @@ http://torrentsmd.me:8080/announce
 http://tr.cili001.com:8070/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.bz/announce
 http://tracker.corpscorp.online/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.fansub.id/announce
@@ -73,6 +74,7 @@ http://tracker.kmzs123.com/announce
 http://tracker.memelords.xyz/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.openzim.org/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -84,6 +86,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com/announce
@@ -1184,6 +1187,8 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
@@ -1302,3 +1307,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
