@@ -90,6 +90,7 @@ http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info:443/announce
 https://bdremux.club/announce
+https://bdremux.club:443/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://retracker2.x2k.ru/announce
