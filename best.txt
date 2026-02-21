@@ -110,15 +110,12 @@ https://t.audiences.me/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
-https://tr.zukizuki.org:443/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
-https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe/announce
@@ -128,7 +125,6 @@ https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.madtia.cc/announce
 https://tracker.moeblog.cn:443/announce
-https://tracker.moeking.me:443/announce
 https://tracker.novy.vip:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org/announce
