@@ -13,7 +13,6 @@ http://216.144.239.90:6969/announce
 http://45.146.254.59:80/announce
 http://95.217.167.10:6969/announce
 http://atrack.pow7.com:80/announce
-http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bvarf.tracker.sh:2086/announce
@@ -24,7 +23,6 @@ http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
-http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://lucke.fenesisu.moe:6969/announce
 http://mediaclub.tv/announce
@@ -51,12 +49,11 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.fansub.id/announce
-http://tracker.imgdump.lol:6969/announce
 http://tracker.kmzs123.com/announce
-http://tracker.memelords.xyz/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openzim.org/announce
+http://tracker.pcfreetime.com:6969/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
@@ -67,11 +64,11 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
+http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
@@ -82,7 +79,6 @@ http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bdremux.club/announce
 https://bdremux.club:443/announce
@@ -110,7 +106,6 @@ https://tracker.jiesen.life:8443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.madtia.cc/announce
-https://tracker.manager.v6.navy/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.novy.vip:443/announce
@@ -1040,7 +1035,6 @@ udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
 udp://saltwood.top:6969/announce
 udp://sanincode.com:6969/announce
-udp://santost12.xyz:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
@@ -1290,3 +1284,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
