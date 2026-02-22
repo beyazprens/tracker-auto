@@ -87,7 +87,6 @@ http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bdremux.club/announce
-https://bdremux.club:443/announce
 https://edge-team.cc/announce
 https://retracker2.x2k.ru/announce
 https://retracker2.x2k.ru:443/announce
