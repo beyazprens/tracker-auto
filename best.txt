@@ -116,7 +116,6 @@ https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.novy.vip:443/announce
-https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.renfei.net/announce
