@@ -1,3 +1,4 @@
+http://0123456789nonexistent.com/announce
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
@@ -10,18 +11,20 @@ http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33/announce
+http://34.66.57.33:1337/announce
 http://34.66.57.33:2710/announce
 http://45.146.254.59:80/announce
 http://60.249.37.20:6969/announce
-http://93.88.129.16/announce
 http://95.217.167.10:6969/announce
-http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://btracker.top:11451/announce
 http://bvarf.tracker.sh:2086/announce
+http://concen.org:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
@@ -37,6 +40,7 @@ http://nagios.tks.sumy.ua/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
+http://open.trackerlist.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
@@ -53,12 +57,13 @@ http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
-http://tracker.memelords.xyz/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openzim.org/announce
@@ -71,7 +76,6 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com/announce
@@ -94,6 +98,7 @@ https://bdremux.club/announce
 https://bdremux.club:443/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://retracker2.x2k.ru:443/announce
 https://sparkle.ghostchu-services.top/announce
@@ -101,6 +106,7 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
+https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
@@ -118,6 +124,7 @@ https://tracker.jiesen.life:8443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.novy.vip:443/announce
@@ -1247,6 +1254,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.piratux.com:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
@@ -1295,4 +1303,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
