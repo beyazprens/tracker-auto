@@ -6,11 +6,10 @@ http://207.241.226.111:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
+http://216.144.239.90:6969/announce
 http://45.146.254.59:80/announce
-http://93.88.129.16/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
-http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bvarf.tracker.sh:2086/announce
@@ -31,7 +30,6 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
@@ -49,6 +47,7 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -63,7 +62,7 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -79,6 +78,7 @@ http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://bdremux.club/announce
 https://bdremux.club:443/announce
@@ -92,7 +92,7 @@ https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
-https://torrentonline.cc/announce
+https://torrent.opiums.eu/announce
 https://tr.abiir.top:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
@@ -100,7 +100,6 @@ https://tr.nyacat.pw:443/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
-https://tracker.cangku.moe/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe/announce
