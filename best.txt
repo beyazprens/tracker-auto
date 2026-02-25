@@ -1,6 +1,5 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://193.31.26.113:6969/announce
 http://207.241.226.111:6969/announce
@@ -9,6 +8,8 @@ http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://45.146.254.59:80/announce
+http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -40,7 +41,6 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
 http://tr.nyacat.pw/announce
@@ -63,6 +63,7 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -85,6 +86,7 @@ https://1337.abcvg.info:443/announce
 https://bdremux.club/announce
 https://bdremux.club:443/announce
 https://bt.beatrice-raws.org/announce
+https://bt.ptlsp.com/announce
 https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -94,12 +96,12 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.213891.xyz:443/announce
 https://t.audiences.me/announce
+https://t1.tokhmi.xyz/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
-https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co:443/announce
@@ -123,6 +125,7 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
+https://trackers.ptlsp.com/announce
 udp://0205.uptm.ch:6969/announce
 udp://10.rarbg.com:6969/announce
 udp://101.99.94.187:6969/announce
@@ -1208,6 +1211,7 @@ udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
+udp://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
