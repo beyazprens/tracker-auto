@@ -12,6 +12,7 @@ http://34.66.57.33/announce
 http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
 http://45.146.254.59:80/announce
+http://93.158.213.92:1337/announce
 http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
@@ -58,6 +59,7 @@ http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -119,7 +121,6 @@ https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.novy.vip:443/announce
-https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
