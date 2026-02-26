@@ -104,6 +104,7 @@ https://t.audiences.me/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
 https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
 https://tr.highstar.shop:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
@@ -121,6 +122,7 @@ https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.novy.vip:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
