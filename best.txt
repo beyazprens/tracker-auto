@@ -11,6 +11,7 @@ http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://34.66.57.33/announce
 http://34.66.57.33:2710/announce
+http://45.146.254.59:80/announce
 http://93.158.213.92:1337/announce
 http://93.88.129.16/announce
 http://atrack.pow7.com:80/announce
