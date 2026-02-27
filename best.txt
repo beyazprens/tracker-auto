@@ -8,6 +8,7 @@ http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
 http://45.146.254.59:80/announce
+http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
