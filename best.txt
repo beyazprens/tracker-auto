@@ -9,16 +9,16 @@ http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:2710/announce
 http://45.146.254.59:80/announce
 http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com:80/announce
 http://bt.beatrice-raws.org/announce
-http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://echostar.ddnsfree.com:8080/announce
-http://extracker.dahrkael.net:6969/announce
+http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://ipv4.rer.lol:2710/announce
@@ -36,12 +36,14 @@ http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
+http://servandroidkino.ru/announce
+http://shubt.net:2710/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://thetracker.org/announce
+http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
 http://tr.nyacat.pw/announce
@@ -53,8 +55,8 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.guguan.000.pe/announce
 http://tracker.kmzs123.com/announce
-http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.openzim.org/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
@@ -71,7 +73,6 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://uatracker.net/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
@@ -112,6 +113,7 @@ https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.novy.vip:443/announce
 https://tracker.pmman.tech:443/announce
+https://tracker.qingwapt.org/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -1284,3 +1286,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
